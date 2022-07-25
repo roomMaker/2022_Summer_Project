@@ -1,6 +1,7 @@
 ## 게임 개요
 
 스와이프 벽돌깨기 모작
+(https://play.google.com/store/apps/details?id=com.Monthly23.SwipeBrickBreaker&hl=ko&gl=US)
 
 ## 개발 환경
 프로젝트가 완료된 후 개발 환경을 작성합니다. 기간 / 인원 / 사용한 툴 / 외부 패키지, 라이브러리 등을 작성합니다.
